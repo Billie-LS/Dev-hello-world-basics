@@ -1,0 +1,15 @@
+/Users/lokiskylizard/Desktop/DevExercises/Dev-hello-world-basics/Csharp_HelloWorld/bin/Debug/net8.0/Csharp_HelloWorld
+/Users/lokiskylizard/Desktop/DevExercises/Dev-hello-world-basics/Csharp_HelloWorld/bin/Debug/net8.0/Csharp_HelloWorld.deps.json
+/Users/lokiskylizard/Desktop/DevExercises/Dev-hello-world-basics/Csharp_HelloWorld/bin/Debug/net8.0/Csharp_HelloWorld.runtimeconfig.json
+/Users/lokiskylizard/Desktop/DevExercises/Dev-hello-world-basics/Csharp_HelloWorld/bin/Debug/net8.0/Csharp_HelloWorld.dll
+/Users/lokiskylizard/Desktop/DevExercises/Dev-hello-world-basics/Csharp_HelloWorld/bin/Debug/net8.0/Csharp_HelloWorld.pdb
+/Users/lokiskylizard/Desktop/DevExercises/Dev-hello-world-basics/Csharp_HelloWorld/obj/Debug/net8.0/Csharp_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lokiskylizard/Desktop/DevExercises/Dev-hello-world-basics/Csharp_HelloWorld/obj/Debug/net8.0/Csharp_HelloWorld.AssemblyInfoInputs.cache
+/Users/lokiskylizard/Desktop/DevExercises/Dev-hello-world-basics/Csharp_HelloWorld/obj/Debug/net8.0/Csharp_HelloWorld.AssemblyInfo.cs
+/Users/lokiskylizard/Desktop/DevExercises/Dev-hello-world-basics/Csharp_HelloWorld/obj/Debug/net8.0/Csharp_HelloWorld.csproj.CoreCompileInputs.cache
+/Users/lokiskylizard/Desktop/DevExercises/Dev-hello-world-basics/Csharp_HelloWorld/obj/Debug/net8.0/Csharp_HelloWorld.sourcelink.json
+/Users/lokiskylizard/Desktop/DevExercises/Dev-hello-world-basics/Csharp_HelloWorld/obj/Debug/net8.0/Csharp_HelloWorld.dll
+/Users/lokiskylizard/Desktop/DevExercises/Dev-hello-world-basics/Csharp_HelloWorld/obj/Debug/net8.0/refint/Csharp_HelloWorld.dll
+/Users/lokiskylizard/Desktop/DevExercises/Dev-hello-world-basics/Csharp_HelloWorld/obj/Debug/net8.0/Csharp_HelloWorld.pdb
+/Users/lokiskylizard/Desktop/DevExercises/Dev-hello-world-basics/Csharp_HelloWorld/obj/Debug/net8.0/Csharp_HelloWorld.genruntimeconfig.cache
+/Users/lokiskylizard/Desktop/DevExercises/Dev-hello-world-basics/Csharp_HelloWorld/obj/Debug/net8.0/ref/Csharp_HelloWorld.dll
