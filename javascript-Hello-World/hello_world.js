@@ -19,6 +19,12 @@ console.error("Hello, World! 3");
 // Logging "Hello, World! 4" to the console using console.debug()
 console.debug("Hello, World! 4");
 
+// Writing "Hello, World! 5" to the standard output stream
+process.stdout.write("Hello, World! 5");
+
+// Writing a newline character to the standard output stream
+process.stdout.write("\n");
+
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
